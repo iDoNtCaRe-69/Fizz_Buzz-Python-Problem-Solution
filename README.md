@@ -14,18 +14,7 @@ Rules Might Differ, Like In Some Cases It's 2 & 3 And Also In Some Cases It's 3 
 * If Divisable By Both 3 & 5 Then Print FizzBuzz
 
 ## Solution
-Here We Go
-'''
-def fizz_buzz(input):
-    if input % 15 == 0:
-        return "FizzBuzz"
-    if input % 3 == 0:
-        return "Buzz"
-    if input % 5 == 0:
-        return "Buzz"
-    return input
-print(fizz_buzz(10))
-'''
+[Here We Go](./app.py)
 
 You Might Be Wondering Where Did This 15 Came Fromn? It's Pretty Straight Forward, If Any Number IS Divisable By Both Values Then That Number Is Also Divisable By Multiplication Of Those Twp Digits. Think Practically Like,
 
