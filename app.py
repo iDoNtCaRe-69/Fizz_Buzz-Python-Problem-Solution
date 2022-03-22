@@ -8,4 +8,4 @@ def fizz_buzz(input):
     return input
 
 
-print(fizz_buzz(input_your_number)) #Dude don's just write that your number thing. Write real number.
+print(fizz_buzz(input_your_number))
