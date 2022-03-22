@@ -14,7 +14,8 @@ Rules Might Differ, Like In Some Cases It's 2 & 3 And Also In Some Cases It's 3 
 * If Divisable By Both 3 & 5 Then Print FizzBuzz
 
 ## Solution
-(Here We Go)(#app.py)
+(Here We Go)(https://github.com/iDoNtCaRe-69/Fizz_Buzz-Python-Problem-Solution/blob/main/app.py)
+
 You Might Be Wondering Where Did This 15 Came Fromn? It's Pretty Straight Forward, If Any Number IS Divisable By Both Values Then That Number Is Also Divisable By Multiplication Of Those Twp Digits. Think Practically Like,
 
 In Tables Of Both 3 & 5, Common Numbers Are 15, 30, 45, 60 And So On & By The Looks Of it They Are In Table Of 15 In Perfect Order. I Don't Think Any More Explanation Needed. Same Goes For 2 & 3, There Commonly Divisable Numbers Are In The Table Of 6 Which Completely Makes Sense.
