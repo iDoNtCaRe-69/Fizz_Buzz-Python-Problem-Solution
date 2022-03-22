@@ -9,9 +9,9 @@ Yet Another Simplified Solution For Our UnDisputed FizzBuzz Python Quiz. Well Th
 
 Rules Might Differ, Like In Some Cases It's 2 & 3 And Also In Some Cases It's 3 & 5. Remember That No Matter What, Solution Remains Same(For Python3 Users) Just Digits Will Change. For This Time I Am Using 3 & 5.
 
-> If Input Is Divisable By 3 Then Print Fizz
-> If Divisable By 5 Then Print Buzz
-> If Divisable By Both 3 & 5 Then Print FizzBuzz
+-> If Input Is Divisable By 3 Then Print Fizz
+-> If Divisable By 5 Then Print Buzz
+-> If Divisable By Both 3 & 5 Then Print FizzBuzz
 
 ## Solution
 Here We Go
