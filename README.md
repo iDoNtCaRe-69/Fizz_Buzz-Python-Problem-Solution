@@ -15,7 +15,7 @@ Rules Might Differ, Like In Some Cases It's 2 & 3 And Also In Some Cases It's 3 
 
 ## Solution
 
-Here We Go Finally The Solution. So [Click Here](./app.py) & Also Read Below Texts For Some Possible Doubts.
+For The Solution [Click Here](./app.py) & Also Read Below Texts For Some Possible Doubts.
 
 You Might Be Wondering Where Did This 15 Came Fromn? It's Pretty Straight Forward, If Any Number IS Divisable By Both Values Then That Number Is Also Divisable By Multiplication Of Those Twp Digits. Think Practically Like,
 
